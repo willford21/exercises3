@@ -3,5 +3,5 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "shape"
+name = "week3"
 version = "0.1"
